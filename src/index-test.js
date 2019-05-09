@@ -6,7 +6,7 @@ import './index.css'
 // 构造函数的React组件中，构造函数必须以super(props)开头
 // 函数组件：只有一个render方法,并且不包含state 接收props作为参数，然后返回需要渲染的元素
 // 本质就是3x3的矩阵 点击后填充字符'X' 或者'O' 
-// 每一个网格
+// 每一个网格 asdad 
 function Square(props) {
   return (
     <button 
