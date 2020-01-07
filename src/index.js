@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import './index.css'
 // 添加一个可以升序或降序显示历史纪录的按钮
 // 当无人获胜时 显示一个平局 先判断当前是否获胜 再判断下一步是否什么符号 然后再接下来的ji
+// 打上标签
 function Square(props) {
   return(
     <button
