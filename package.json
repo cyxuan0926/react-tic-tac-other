@@ -1,7 +1,7 @@
 {
   "name": "cy-my-app-demo",
   "version": "0.1.0",
-  "homepage": "https://cyxuan0926.github.io/react-tic-tac-toe",
+  "homepage": "https://cyxuan0926.github.io/react-tic-tac",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
