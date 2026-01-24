@@ -32,7 +32,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "commitizen": "^3.1.1",
+    "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^2.1.0",
     "gh-pages": "^2.2.0"
   }
